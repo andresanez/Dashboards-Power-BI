@@ -35,6 +35,8 @@ Anualmente en Colombia se desarrollan pruebas de estado, las cuales tienen como 
  - ¿Cómo es el rendimiento de las instituciones Oficiales vs No Oficiales?
  - ¿Cuál es el rendimiento por ciudad?
 
+![icfes](https://user-images.githubusercontent.com/81836507/138628885-29eed75d-215b-4e50-895a-3dcad8804c2a.jpg)
+
 *Conclusiones y Hallazgos Importantes*
  - Se encuentra que existe una diferencia de 22 puntos entre los resultados de las instituciones No Oficiales versus las Oficiales.
  - La competencia con promedio más bajo son las ciencias sociales.
