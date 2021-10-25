@@ -18,6 +18,8 @@ Es de vital importancia para un Ecommerce conocer el comportamiento de sus venta
 ***Análisis de Calidad***
 Uno de los análisis de calidad más importantes en industrias manufactureras son a partir del estudio de los indicadores de capacidad de procesos, a continuación, se puede visualizar un panel de BI en donde se logran analizar los diferentes indicadores para un proceso de fabricación de Tornillos.
 
+![calidad](https://user-images.githubusercontent.com/81836507/138628607-678801a2-e534-4321-b7e6-cdcdaa54d17d.jpg)
+
 *Conclusiones y Hallazgos Importantes*
  
  - El indicador de procesos marca un 1,16 lo que significa que tan solo el 0,36% de los productos es considerado No Conforme, mientras que otro 0,36% puede ser llevado a reproceso.
