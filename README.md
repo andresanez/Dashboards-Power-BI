@@ -1,4 +1,4 @@
-**Dashboards Power BI**
+## **Dashboards Power BI**
 
 La correcta visualización de datos se establece como herramienta importante para la toma de decisiones estratégicas dentro de las compañías y/o entidades gubernamentales, a continuación se muestran diferentes Dashsboards construidos en Power BI:
 
@@ -9,6 +9,7 @@ Es de vital importancia para un Ecommerce conocer el comportamiento de sus venta
  - ¿Qué categorías son más importantes para el negocio?
  - ¿Cómo han evolucionado las ventas a lo largo de los años de operación?
 
+![ecommerce](https://user-images.githubusercontent.com/81836507/138628691-8c6bed93-f325-4a65-8c52-a631cb5ed2be.jpg)
 
 *Conclusiones y Hallazgos Importantes*
  - Los estados de California y New York representan aproximadamente el 33% de las ventas totales.
@@ -16,6 +17,7 @@ Es de vital importancia para un Ecommerce conocer el comportamiento de sus venta
  - Se logra visualizar un crecimiento en cada uno de los años a partir de 2016.
 
 ***Análisis de Calidad***
+
 Uno de los análisis de calidad más importantes en industrias manufactureras son a partir del estudio de los indicadores de capacidad de procesos, a continuación, se puede visualizar un panel de BI en donde se logran analizar los diferentes indicadores para un proceso de fabricación de Tornillos.
 
 ![calidad](https://user-images.githubusercontent.com/81836507/138628607-678801a2-e534-4321-b7e6-cdcdaa54d17d.jpg)
